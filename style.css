@@ -1,0 +1,17 @@
+body{
+    font-family: "Yu Gothic", sans-serif;
+    margin:0;
+    background:#f5f7fa;
+    color:#333;
+    line-height:1.8;
+}
+header{background:#003366;color:white;padding:40px 20px;text-align:center;}
+nav{background:white;text-align:center;padding:15px;box-shadow:0 2px 4px rgba(0,0,0,0.1);}
+nav a{margin:0 15px;text-decoration:none;color:#003366;font-weight:bold;}
+.container{max-width:1000px;margin:auto;padding:20px;}
+section{background:white;padding:25px;margin-bottom:20px;border-radius:10px;box-shadow:0 2px 4px rgba(0,0,0,0.08);}
+h2{color:#003366;border-bottom:2px solid #003366;padding-bottom:8px;}
+.button{display:inline-block;background:#003366;color:white;padding:12px 20px;text-decoration:none;border-radius:5px;}
+table{width:100%;border-collapse:collapse;}
+td{padding:10px;border-bottom:1px solid #ddd;}
+footer{background:#003366;color:white;text-align:center;padding:20px;}
