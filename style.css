@@ -22,5 +22,5 @@ section{background:white;padding:25px;margin-bottom:20px;border-radius:10px;box-
 h2{color:#003366;border-bottom:2px solid #003366;padding-bottom:8px;}
 .button{display:inline-block;background:#003366;color:white;padding:12px 20px;text-decoration:none;border-radius:5px;}
 table{width:100%;border-collapse:collapse;}
-td{padding:10px;border-bottom:1px solid #ddd;}
+td{padding:10px;border-bottom:1px solid #ddd;vertical-align: top;}
 footer{background:#003366;color:white;text-align:center;padding:20px;}
